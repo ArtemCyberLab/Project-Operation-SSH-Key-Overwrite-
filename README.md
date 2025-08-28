@@ -73,7 +73,7 @@ Commands:
 
 bash
 script /dev/null -qc bash
-# Ctrl+Z
+Ctrl+Z
 stty raw -echo; fg
 export TERM=xterm
 8. Privilege Escalation Path Discovery
